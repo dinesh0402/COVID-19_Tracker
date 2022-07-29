@@ -1,4 +1,4 @@
-# COVID-19 Tracker App
+# COVID-19 Tracker App 🌡📈
 ## This is a basic COVID-19 Tracker app built using React.js and Firebase for hosting.
 
 This web application gives some basic information about the COVID-19 cases, recovered and deaths' information all across the world countries using the API called "disease.sh".

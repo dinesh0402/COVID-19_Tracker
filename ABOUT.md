@@ -3,6 +3,8 @@
 
 This web application gives some basic information about the COVID-19 cases, recovered and deaths' information all across the world countries using the API called "disease.sh".
 
+### App Link :- https://covid-19-tracker-37bec.web.app/
+
 ### What the app constitues :-
 * 👉 The numbers of the cases, deaths and recovered are obtained from the "disesase.sh" API endpoints.
 * 👉 The map which you see on the screen is build out of "react-leaflet" library.
